@@ -6,4 +6,4 @@ dy = y2 - y1
 
 dist_sq = dx * dx + dy * dy
 
-print(dist_sq)
+print(dist_sq)x1, y1 = map(int, input().split())
